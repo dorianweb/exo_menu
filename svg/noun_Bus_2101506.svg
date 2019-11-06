@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 287.26941 157"
+   x="0px"
+   y="0px"
+   id="bus"
+   sodipodi:docname="noun_Bus_2101506.svg"
+   width="287.26941"
+   height="157"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+     id="metadata3904"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview3902"
+     showgrid="false"
+     inkscape:zoom="1.2025478"
+     inkscape:cx="187.95861"
+     inkscape:cy="5.190789"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3894" /><defs
+     id="defs3890"><style
+       type="text/css"
+       id="style3888">
+
+    .fil0 {fill:black}
+
+  </style></defs><g
+     id="g3894"><path
+       class="fil0"
+       d="M 257,0 H 15 C 7,0 0,7 0,15 v 109 c 0,5 4,9 9,9 h 27 c -1,-2 -1,-4 -1,-6 0,-20 16,-36 36,-36 20,0 36,16 36,36 0,2 0,4 0,6 h 84 c -1,-2 -1,-4 -1,-6 0,-20 16,-36 36,-36 20,0 36,16 36,36 0,2 0,4 0,6 h 16 C 299,133 281,0 257,0 Z m -31,98 c 16,0 30,13 30,29 0,16 -14,30 -30,30 -16,0 -29,-14 -29,-30 0,-16 13,-29 29,-29 z m 0,13 c -9,0 -16,7 -16,16 0,9 7,16 16,16 9,0 16,-7 16,-16 0,-9 -7,-16 -16,-16 z m -155,0 c 9,0 16,7 16,16 0,9 -7,16 -16,16 -9,0 -16,-7 -16,-16 0,-9 7,-16 16,-16 z m 0,-13 c 16,0 29,13 29,29 0,16 -13,30 -29,30 C 55,157 42,143 42,127 42,111 55,98 71,98 Z M 256,10 c 9,7 18,47 20,81 0,2 0,4 -3,4 h -17 c -4,0 -7,-3 -8,-6 C 245,71 219,58 209,58 V 10 Z M 199,58 H 140 V 10 h 59 z m -69,0 H 72 V 10 h 58 z M 62,58 H 10 V 15 c 0,-3 2,-5 5,-5 h 47 z"
+       id="path3892"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" /></g></svg>

@@ -8,14 +8,21 @@
 	</head>
 	<body>
 	<header>
-		<ul class="nav">
-			<li><a href="./eval_layout_menu.html" > Aceuil</a></li>
-			<li><a  href="./page/cerise.html">Cerise</a></li>
-			<li><a href="./page/hamburger.html">hamburger</a></li>
-			<li><a href="./page/poire.html">poire</a></li>
-			<li><a href="./page/pomme.html">pomme</a></li>
-			<li><a href="./page/tomate.html">tomate</a></li>
-		</ul>
+		<div class="container">
+			<div onclick=" nav= document.querySelectorAll('li');  lclass = nav.className=='is-show'?'is-not-show':'is-show'; for(i=0;i<nav.length;i++){ nav[i].setAttribute('class',lclass); }" class="burger">
+				<img src="img/hamburger.png" class="img"/>
+			</div>
+			<ul class="is-show nav">
+				<li class=""><a href="./eval_layout_menu.html" class="link" > Aceuil</a></li>
+				<li class=""><a href="./page/cerise.html"  class="link">Cerise</a></li>
+				<li class=""><a href="./page/poire.html"  class="link">poire</a></li>
+				<li class=""><a href="./page/pomme.html"  class="link">pomme</a></li>
+				<li class=""><a href="./page/tomate.html"  class="link">tomate</a></li>
+			</ul>
+		</div>
+		<svg class="icon icon--red">
+  <use xlink:href="./img/sprite_symbol_pictos.svg#bus"></use>
+</svg>
 	</header>
 	</body>
 </html>
